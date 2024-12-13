@@ -1,0 +1,12 @@
+# -*- conf -*-
+
+/o
+/.cosmocc
+/TAGS
+/HTAGS
+/cosmocc
+/perf.data
+/perf.data.old
+/trace.json
+
+/*.log
